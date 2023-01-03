@@ -26,3 +26,11 @@ URL do curso -> [JavaScript - Programando a Orientação a Objetos](https://curs
 * O que são atributos.
 * Instâcia/Objeto.
 * Operador new.
+
+***
+
+## 02 - Adicionando Comportamentos &#x1F516;
+* Criação de métodos.
+* Palavra chave this.
+* Encapsulamento.
+* Proposta de atributos privados.
