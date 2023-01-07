@@ -34,3 +34,13 @@ URL do curso -> [JavaScript - Programando a Orientação a Objetos](https://curs
 * Palavra chave this.
 * Encapsulamento.
 * Proposta de atributos privados.
+
+***
+
+## 03 - Modularizando Código &#x1F516;
+* Package.json.
+* Modules.
+* import/export.
+* Quais as vantagens de ter um código onde usamos classes e composição ao invés de tipos primitivos.
+* Tipos de valor e tipos de referência.
+* Alterando dinamicamente um objeto.
