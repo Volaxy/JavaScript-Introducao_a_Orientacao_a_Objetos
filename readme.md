@@ -44,3 +44,8 @@ URL do curso -> [JavaScript - Programando a Orientação a Objetos](https://curs
 * Quais as vantagens de ter um código onde usamos classes e composição ao invés de tipos primitivos.
 * Tipos de valor e tipos de referência.
 * Alterando dinamicamente um objeto.
+
+## 04 - Acessando Atributos Privados &#x1F516;
+* Get e Set.
+* Melhor encapsulamento da classe.
+* Protegendo atributos sensíveis.
