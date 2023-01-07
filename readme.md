@@ -10,15 +10,6 @@ URL do curso -> [JavaScript - Programando a Orientação a Objetos](https://curs
 
 ![JavaScript - Programando a Orientação a Objetos](https://www.alura.com.br/assets/api/share/curso-javascritpt-orientacao-objetos.png)
 
-## Links Úteis &#x1F517;
-*
-
-## Siglas &#x1F5FA;
-*
-
-## Atalhos &#x2328;
-*
-
 ***
 
 ## 01 - Repetição de Código &#x1F516;
@@ -45,7 +36,17 @@ URL do curso -> [JavaScript - Programando a Orientação a Objetos](https://curs
 * Tipos de valor e tipos de referência.
 * Alterando dinamicamente um objeto.
 
+***
+
 ## 04 - Acessando Atributos Privados &#x1F516;
 * Get e Set.
 * Melhor encapsulamento da classe.
 * Protegendo atributos sensíveis.
+
+***
+
+## 05 - Construtores e Estáticos &#x1F516;
+* Construtores.
+* Encapsulamento.
+* Atributos "readonly".
+* Atributos estáticos.
